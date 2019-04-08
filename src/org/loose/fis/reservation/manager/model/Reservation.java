@@ -2,6 +2,12 @@ package org.loose.fis.reservation.manager.model;
 
 import java.util.Objects;
 
+ra numelui clasei: 
+/**
+* This is the reservation model.
+* It is the core entity of our software system.
+*/ 
+
 public class Reservation {
     private String id;
     private User user;
